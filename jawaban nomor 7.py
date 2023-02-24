@@ -3,7 +3,6 @@
 #NPM  : 2006470685
 
 #Mengimpor library yang digunakan
-
 import pandas as pd
 import xlsxwriter as xls
 
